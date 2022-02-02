@@ -1,2 +1,1 @@
-# rt-chat
-Real time chat app
+Real time chat application
